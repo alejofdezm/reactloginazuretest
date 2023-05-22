@@ -1,0 +1,1 @@
+declare module "sys-user-mf/obtenerToken";
